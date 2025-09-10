@@ -27,8 +27,6 @@ This implementation leverages pre-trained CNN models like **ResNet** and **Mobil
 
 
 
------
-
 ## **Getting Started**
 
 ### **Installation**
@@ -69,5 +67,3 @@ After training, the model can generate descriptive captions for various images. 
   * "A brown dog is running through the grass."
   * "A man in a red shirt is climbing a rock wall."
   * "Children are playing soccer on a green field."
-
------
